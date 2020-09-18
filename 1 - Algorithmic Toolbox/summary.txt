@@ -17,6 +17,24 @@ Module 1 - Programming Challenges
 Module 2 - Algorithmic Warm-up
     In this module you will learn that programs based on efficient algorithms can solve the same problem billions of times faster than programs based on naïve algorithms. You will learn how to estimate the running time and memory of an algorithm without even implementing it. Armed with this knowledge, you will be able to compare various algorithms, select the most efficient ones, and finally implement them as our programming challenges!
 
+    - Why Study Algorithms?
+    - Coming Up
+
+    - Problem Overview (Fibonacci Numbers)
+    - Naive Algorithm (Simple Recursive Fibonacci Algorithm)
+    - Efficient Algorithm (Simple Iterative Fibonacci Algorithm)
+
+    - Problem Overview and Naive Algorithm (Greatest Common Divisor)
+    - Efficient Algorithm (Euclidean Algorithm for Greatest Common Divisor) 
+
+    - Computing Runtimes (Runtime depends on various details, we want to measure it without knowing the details, so we measure by knwoing how much the runtime scales with input sizes -> Asymptotic Notation, Big-O Notation)
+    - Asymptotic Notation
+    - Big-O Notation
+    - Using Big-O (constantes multiplicativas são omitidas, em polinomial expoente maior prevalece, exponencial prevalece a polinomial, polinomial prevalece a logarítmico, termos menores são omitidos)
+
+    - Course Overview
+    Programming Assignment 2: Algorithmic Warm-up (Fibonacci, GCD, LCM)
+
 Module 3 - Greedy Algorithms
     In this module you will learn about seemingly naïve yet powerful class of algorithms called greedy algorithms. After you will learn the key idea behind the greedy algorithms, you may feel that they represent the algorithmic Swiss army knife that can be applied to solve nearly all programming challenges in this course. But be warned: with a few exceptions that we will cover, this intuitive idea rarely works in practice! For this reason, it is important to prove that a greedy algorithm always produces an optimal solution before using this algorithm. In the end of this module, we will test your intuition and taste for greedy algorithms by offering several programming challenges.
 
