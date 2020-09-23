@@ -1,0 +1,7 @@
+1. linked list / lista encadeada
+2. array / arranjo / vetor / matriz
+3. hash table / tabela de dispersão / tabela de espalhamento
+4. Stack / Pilha / LIFO
+5. Queue / Fila / FIFO 
+6. Graphs / Grafos
+7. Trees / Árvores 
