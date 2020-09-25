@@ -54,7 +54,12 @@ Module 3 - Greedy Algorithms
     - Efficient Algorithm for Grouping Children 
     - Analysis and Implementation of the Efficient Algorithm
 
-    - Long Hike
+    - Long Hike (maximize the calories, Fractional Knapsack -> put in item with maximum value per weight until its full)
+    - Fractional Knapsack - Implementation, Analysis and Optimization (buidling an algorithm with O(n^2) then optimizing it with O(nlogn) sorting algorithm)
+    - Review of Greedy Algorithms (safe move, prove safety, solve subproblem, estimate running time) (message and code problem)
+
+    Programming Assignment 3: Greedy Algorithms (Money Change, Fractional Knapsack, Car Fueling, Maximum Dot Product, Covering Segments by Points, Different Summands, Largest Number)
+
 
 
 Module 4 - Divide-and-Conquer
