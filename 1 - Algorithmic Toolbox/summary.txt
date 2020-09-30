@@ -60,10 +60,15 @@ Module 3 - Greedy Algorithms
 
     Programming Assignment 3: Greedy Algorithms (Money Change, Fractional Knapsack, Car Fueling, Maximum Dot Product, Covering Segments by Points, Different Summands, Largest Number)
 
-
-
 Module 4 - Divide-and-Conquer
     In this module you will learn about a powerful algorithmic technique called Divide and Conquer. Based on this technique, you will see how to search huge databases millions of times faster than using naïve linear search. You will even learn that the standard way to multiply numbers (that you learned in the grade school) is far from the being the fastest! We will then apply the divide-and-conquer technique to design two efficient algorithms (merge sort and quick sort) for sorting huge lists, a problem that finds many applications in practice. Finally, we will show that these two algorithms are optimal, that is, no algorithm can sort faster!
+
+    (http://dm.compsciclub.ru/app/quiz-clock-game)
+    - Intro (Break intro non-overlapping subproblems of the same type, solve subproblems, combine results)
+    - Linear Search (Create a recursive solution, define a corresponding recurrence relation T, determine T(n) worst-case runtime, optionally create iterative solution)
+    (http://dm.compsciclub.ru/app/quiz-opposite-colors)
+    - Binary Search (Break problem into non-overlapping subproblems of the same type, recursively solve them, combine results of subproblems)
+    
 
 
 Module 5 - Dynamic Programming 1
