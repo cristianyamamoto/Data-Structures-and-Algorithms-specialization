@@ -68,7 +68,9 @@ Module 4 - Divide-and-Conquer
     - Linear Search (Create a recursive solution, define a corresponding recurrence relation T, determine T(n) worst-case runtime, optionally create iterative solution)
     (http://dm.compsciclub.ru/app/quiz-opposite-colors)
     - Binary Search (Break problem into non-overlapping subproblems of the same type, recursively solve them, combine results of subproblems)
-    
+    - Binary Search Runtime (O(nlogn))
+
+    - Problem Overview and Naïve Solution
 
 
 Module 5 - Dynamic Programming 1
